@@ -73,7 +73,7 @@ Answers caller questions like clinic location, timings, services, and more.
 
 “New appointment booked for Sarah Ahmed on July 25th at 3 PM – Cleaning appointment.”
 
-![Make eveCheckAval.png](docs/Make_eveCheckAval.png)
+![Make eveCheckAval.png](docs/Make%20eveCheckAval.png)
 
 ![eveBookApp.png](docs/eveBookApp.png)
 
