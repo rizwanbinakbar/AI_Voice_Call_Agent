@@ -102,7 +102,10 @@ Answers caller questions like clinic location, timings, services, and more.
 
 ✅ Easily adaptable for spas, salons, clinics, or law firms.
 
-Note: You can email me at rizwanforbuissnes@gmail.com to get the Make.com tempelate and Vapi agent prompt+code for FREE
+### **Want to Work wit me?**
+
+Just email me at: 
+## rizwanfordata@gmail.com
 
 Regards:
 Rizwan Bin Akbar
